@@ -55,7 +55,7 @@ body {
 }
 
 /* Card Colors */
-.mehndi { background-color: #E3F0D6; color: #2F5D32; }
+.mehndi { background: #E3F0D6; color: #2F5D32; }
 .barat { background: #6B1E23; color: #F5E6C8; }
 .valima { background: #FAF7F2; color: #3A3A3A; }
 
@@ -104,5 +104,6 @@ body {
   0% {transform: translateY(0) translateX(0) rotate(0deg);}
   100% {transform: translateY(-300px) translateX(50px) rotate(360deg); opacity:0;}
 }
+
 
 
